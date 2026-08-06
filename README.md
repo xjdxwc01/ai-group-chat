@@ -4,7 +4,9 @@
 
 ## 在线预览
 
-GitHub Pages 启用后可在线访问。
+点击链接直接体验：
+
+**[https://raw.githack.com/xjdxwc01/ai-group-chat/gh-pages/index.html](https://raw.githack.com/xjdxwc01/ai-group-chat/gh-pages/index.html)**
 
 ## 功能
 
