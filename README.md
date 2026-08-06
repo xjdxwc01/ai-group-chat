@@ -4,9 +4,17 @@
 
 ## 在线预览
 
-点击链接直接体验：
+点击链接直接体验（无需安装，浏览器打开即可）：
 
-**[https://raw.githack.com/xjdxwc01/ai-group-chat/gh-pages/index.html](https://raw.githack.com/xjdxwc01/ai-group-chat/gh-pages/index.html)**
+### 方式一：HTML Preview
+
+**[https://htmlpreview.github.io/?https://raw.githubusercontent.com/xjdxwc01/ai-group-chat/gh-pages/index.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/xjdxwc01/ai-group-chat/gh-pages/index.html)**
+
+### 方式二：GitHub Pages（需手动启用）
+
+启用后访问：`https://xjdxwc01.github.io/ai-group-chat/`
+
+启用方法：仓库 Settings → Pages → Source 选 `gh-pages` 分支 → Save
 
 ## 功能
 
